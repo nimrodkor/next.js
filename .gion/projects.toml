@@ -1,0 +1,2 @@
+[projects]
+bundle-analyzer = ["apps/bundle-analyzer"]
